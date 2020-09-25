@@ -1,6 +1,6 @@
 # DCT
 
-##Team 
+## Team 
 
 Mohammad Ali Manan (_mohammadalimanan+github@gmail.com_)  
 Francesco Porto (_francescoporto97+github@gmail.com_)  
